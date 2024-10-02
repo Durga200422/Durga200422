@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narapureddy Durga Prasad Reddy</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/Durga200422/Durga200422/main/Durga_Banner.png"> </div>
 <h3 align="center">A dedicated AI and ML enthusiast from India with a strong academic foundation and hands-on experience in data-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durga200422&label=Profile%20views&color=0e75b6&style=flat" alt="durga200422" /> </p>
