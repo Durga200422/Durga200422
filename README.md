@@ -31,3 +31,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Durga200422&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://raw.githubusercontent.com/{Durga200422}/{Durga200422}/output/github-contribution-grid-snake-dark.svg)
