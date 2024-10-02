@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narapureddy Durga Prasad Reddy</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/Durga200422/Durga200422/main/Durga_Banner.png"> </div>
 <h3 align="center">A dedicated AI and ML enthusiast from India with a strong academic foundation and hands-on experience in data-driven solutions.</h3>
-<img align="right" alt="Coding" width="200" src="https://raw.githubcontent.com/Durga200422/Durga200422/main/Durga_Gif.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durga200422&label=Profile%20views&color=0e75b6&style=flat" alt="durga200422" /> </p>
 
 - 🔭 I’m currently working on [Covid-19-Classification using Audio Signals](https://github.com/Durga200422/Covid-19-Classification-using-Audio-Signals)
@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durga200422&show_icons=true&locale=en" alt="durga200422" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durga200422&" alt="durga200422" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
